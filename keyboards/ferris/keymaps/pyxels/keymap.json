@@ -60,7 +60,7 @@
          "DE_LCBR"     , "DE_RCBR"     , "DE_LPRN"        , "DE_RPRN"       , "DE_AT",
          "KC_TRNS"     , "KC_NO"       , "DE_EQL"         , "DE_PLUS"       , "DE_PERC",
 
-         "KC_TRNS"     , "DE_EXLM"     , "DE_LBRC"        , "DE_RBRC"       , "KC_TRNS",
+         "DE_QUES"     , "DE_EXLM"     , "DE_LBRC"        , "DE_RBRC"       , "KC_TRNS",
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
 
          "KC_VOLD"     , "KC_TRNS",
