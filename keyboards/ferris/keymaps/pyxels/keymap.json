@@ -105,7 +105,7 @@
         ["KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
          "KC_TRNS"     , "DE_UDIA"     , "KC_TRNS"        , "DE_ODIA"       , "KC_TRNS", 
 
-         "DE_ADIA"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS", 
+         "DE_ADIA"     , "DE_SS"       , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS", 
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
 
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
