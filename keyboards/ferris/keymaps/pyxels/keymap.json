@@ -54,7 +54,7 @@
          "KC_TRNS"     , "KC_TRNS",
          "KC_TRNS"     , "KC_TRNS"
         ],
-        ["KC_TRNS"     , "DE_COLN"     , "DE_LABK"        , "DE_RABK"       , "DE_SCLN",
+        ["DE_DEG"      , "DE_COLN"     , "DE_LABK"        , "DE_RABK"       , "DE_SCLN",
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
 
          "DE_LCBR"     , "DE_RCBR"     , "DE_LPRN"        , "DE_RPRN"       , "DE_AT",
