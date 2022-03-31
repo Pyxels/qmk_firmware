@@ -43,7 +43,7 @@
          "KC_TRNS"     , "KC_TRNS"
         ],
         ["KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
-         "KC_TRNS"     , "DE_UNDS"     , "DE_PIPE"        , "DE_QUOT"       , "KC_TRNS",
+         "KC_TRNS"     , "DE_UNDS"     , "DE_PIPE"        , "DE_QUOT"       , "DE_EURO",
 
          "DE_CIRC"     , "DE_ASTR"     , "DE_AMPR"        , "KC_NO"         , "KC_TRNS",
          "DE_HASH"     , "DE_TILD"     , "DE_SLSH"        , "DE_DQUO"       , "DE_DLR",
