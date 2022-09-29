@@ -6,17 +6,29 @@
     "keymap": "default",
     "layout": "LAYOUT_split_3x5_2",
     "layers": [
+        ["KC_Q"        , "KC_W"        , "KC_F"           , "KC_P"          , "KC_B",
+         "KC_J"        , "KC_L"        , "KC_U"           , "DE_Y"          , "DE_SLSH",
+
+         "LSFT_T(KC_A)", "LT(6,KC_R)"  , "LT(2,KC_S)"     , "LT(4,KC_T)"    , "LT(9,KC_G)",
+         "KC_M"        , "LT(5,KC_N)"  , "LT(3,KC_E)"     , "LT(7,KC_I)"    , "LSFT_T(KC_O)",
+
+         "DE_Z"        , "LCTL_T(KC_X)", "LALT_T(KC_C)"   , "KC_D"          , "KC_V",
+         "KC_K"        , "KC_H"        , "LALT_T(DE_COMM)", "LCTL_T(DE_DOT)", "DE_MINS",
+
+         "KC_LGUI"      , "KC_SPC",
+         "LT(8,KC_BSPC)", "KC_TAB"
+        ],
         ["KC_Q"        , "KC_W"        , "KC_E"           , "KC_R"          , "KC_T",
          "DE_Z"        , "KC_U"        , "KC_I"           , "KC_O"          , "KC_P",
 
-         "LSFT_T(KC_A)", "LT(5,KC_S)"  , "LT(1,KC_D)"     , "LT(3,KC_F)"    , "LT(8,KC_G)",
-         "KC_H"        , "LT(4,KC_J)"  , "LT(2,KC_K)"     , "LT(6,KC_L)"    , "LSFT_T(DE_HASH)",
+         "LSFT_T(KC_A)", "LT(6,KC_S)"  , "LT(2,KC_D)"     , "LT(4,KC_F)"    , "LT(9,KC_G)",
+         "KC_H"        , "LT(5,KC_J)"  , "LT(3,KC_K)"     , "LT(7,KC_L)"    , "LSFT_T(DE_HASH)",
 
          "DE_Y"        , "LCTL_T(KC_X)", "LALT_T(KC_C)"   , "KC_V"          , "KC_B",
          "KC_N"        , "KC_M"        , "LALT_T(DE_COMM)", "LCTL_T(DE_DOT)", "DE_MINS",
 
          "KC_LGUI"      , "KC_SPC",
-         "LT(7,KC_BSPC)", "KC_TAB"
+         "LT(8,KC_BSPC)", "KC_TAB"
         ],
         ["KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
          "KC_TRNS"     , "KC_BTN1"     , "KC_WH_U"        , "KC_BTN2"       , "KC_TRNS",
@@ -94,7 +106,7 @@
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_DEL",
 
          "KC_TRNS"     , "DE_PERC"     , "DE_SLSH"        , "KC_ENT"        , "KC_TRNS",
-         "DF(9)"       , "KC_LGUI"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
+         "DF(1)"       , "KC_LGUI"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
 
          "KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_EXLM"       , "KC_TRNS",
          "DF(0)"       , "KC_TRNS"     , "RALT_T(KC_COMM)", "RCTL_T(KC_DOT)", "RESET",
@@ -113,18 +125,6 @@
 
          "KC_TRNS"     , "KC_TRNS",
          "KC_TRNS"     , "KC_TRNS"
-        ],
-        ["KC_Q"        , "KC_W"        , "KC_F"           , "KC_P"          , "KC_B",
-         "KC_J"        , "KC_L"        , "KC_U"           , "KC_Y"          , "DE_SLSH",
-
-         "LSFT_T(KC_A)", "LT(5,KC_R)"  , "LT(1,KC_S)"     , "LT(3,KC_T)"    , "LT(8,KC_G)",
-         "KC_M"        , "LT(4,KC_N)"  , "LT(2,KC_E)"     , "LT(6,KC_I)"    , "LSFT_T(KC_O)",
-
-         "DE_Z"        , "LCTL_T(KC_X)", "LALT_T(KC_C)"   , "KC_D"          , "KC_V",
-         "KC_K"        , "KC_H"        , "LALT_T(DE_COMM)", "LCTL_T(DE_DOT)", "DE_MINS",
-
-         "KC_LGUI"      , "KC_SPC",
-         "LT(7,KC_BSPC)", "KC_TAB"
         ]
     ],
     "author": "Pyxels"
